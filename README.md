@@ -1,2 +1,2 @@
 # react and django
- projetc i've done with react and django
+ project that I've done with reactjs and django
