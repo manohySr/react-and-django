@@ -1,4 +1,5 @@
 # react and django
+
  FRONTEND is the frontend of todolist doing with reactjs
  and BACKEND is the backend doing with django3
  
